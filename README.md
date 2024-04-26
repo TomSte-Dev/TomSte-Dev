@@ -32,7 +32,4 @@ Hi, I’m a software developer currently training with Peregrine on their future
 <img align="left" alt="Jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <img align="left" alt="Confluence" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" />
 
-<img align="left" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img align="left" alt="Unreal Engine" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
-
 <br />
