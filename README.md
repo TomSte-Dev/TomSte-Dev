@@ -5,10 +5,10 @@ I’m a software developer currently training with Peregrine on their future tal
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/tomstevens-gamedev/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
+  <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
   
   <a href="mailto:tomstevens.19.02@gmail.com" target="_blank">
-  <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt="Gmail" style="margin-bottom: 5px;" /></a> 
+  <img title="Email" src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt="Gmail" style="margin-bottom: 5px;" /></a> 
 
 </div>
 
