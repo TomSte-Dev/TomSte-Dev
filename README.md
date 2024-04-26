@@ -1,8 +1,7 @@
-# Tom Stevens
-
+# Tom
 **`Software Developer`**
 
-Hi, I’m a software developer currently training with Peregrine on their future talent programme. I primarily work with C# and C++.
+I’m a software developer currently training with Peregrine on their future talent programme. I primarily work with C# and C++.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/tomstevens-gamedev/">
