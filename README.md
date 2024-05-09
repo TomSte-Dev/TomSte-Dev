@@ -20,7 +20,7 @@ I’m a software developer currently training with Peregrine on their future tal
 <img align="left" alt="C++" title="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="CSS" title="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img align="left" alt="Bash" title="Bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
